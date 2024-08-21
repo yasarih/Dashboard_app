@@ -1,0 +1,4 @@
+# .gitignore
+
+# Ignore JSON credentials file
+*.json
