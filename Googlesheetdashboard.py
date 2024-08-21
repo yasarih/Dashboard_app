@@ -13,7 +13,7 @@ json_key_path = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
 if not json_key_path:
     st.error("The GOOGLE_APPLICATION_CREDENTIALS environment variable is not set.")
 else:
-    creds = ServiceAccountCredentials.from_json_keyfile_name(yasaranglebelearn-db34409d3f0c.json, scope)
+    creds = ServiceAccountCredentials.from_json_keyfile_name(json_key_path, scope)
     client = gspread.authorize(creds)
 
     # Use the spreadsheet ID from your Google Sheets link
