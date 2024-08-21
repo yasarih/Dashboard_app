@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "coastal-theory-433014-i8",
-  "private_key_id": "44f0b2553b09a4d77c4782c885b315bd27495d6e",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCaEGI7RXpxO+QW\nMb7qAmgHtUnVkf69yB5A2gX/qqvS3ZHDBWR+ZcSCPbbA19jKstIw3BZJxrzWredi\ngwYoIYasxuEu6AyD6dKZmWSfVcJrXkGCHycLHwJ9lKA9P4lVEdRsaGQQw5X8gJ+V\ndbBahRluuyiSz1mVExuECXspCv3oHZCf6MPAMoJStT8g2KQ3V1+ibEDGhxm72tPq\nByxzFFmi/Lj1HSIeLqzg5vtlzhr8/oeK8Vu73DkO43HZQjiQ8TxpHkVUVTt5Td4p\nSR5WyoXzRwrbH2ph6bqjucAhTeIklS28BIBsVhjBTtzb4iFKMF0wzb7aUGVSMe0X\n7TaAMCdpAgMBAAECggEAHr+WW24Kef8SDrvu9pV0XdV43v88cHQ4VYkuGVDe6j7+\nkIXLAM8e4T+f8e0if5IhEU9bw22+0rnyrF6qI+hNEL7AwrPdi5ZnSfCrfIGJRBST\nznyZNkcCID5BnPfJWQkt9FUBY7clgDfLofDTOb3Gzarc9jAcGPyvSTL7Ob3P3zt3\nvlzsCdip3jh0aGU9WhwR2cHqNifzeaadEErxrdOSQs+/SoUJFirEm8zPOLlYjEOW\nhhwstYsphis/NAhDLDn+8ijN5V+y72m5nE9xGaDKNpyZ3H7UQxhXC/HqyuSVH0QU\nONWmMY9BgONpvIm2k4gO0H8c6EP1DSEEUBl1OhMngQKBgQDZsB/yo6h+StHj03aa\na8uGfn7/WzLwBmHzXgh7HshxhxQLKj1U9QV7DCgjq+rLoz6dKq9wzViSTVIvXUBm\ngKlkawM1OchMECSLbuby2GbE7TKtyGwiS2JEkBpJpXPKubF/xVp3BOMmJY97HXJF\nDAmZpD8TX1diynd9JGLTLDalJQKBgQC1LbJhLzxwPvT/iGEklQfHLT9hM9vhpy7X\npLvL7pOdxIAzxrf19tMuQgHMMBdEl/xMg+dcumCYy36twJjuUNhM32wC1JvNw7oi\nipuG6ZtDTkimfDfivxH89drUVajtOTtLEY734hjbbrbgGc8nS8zYDK0YoBBkXkYS\n7InQZEA/9QKBgQCeVmpWfc3P1rImSaiqF6AZOqc7K+W4CpxyfUIj87cORJdCq72i\nrvoGj0ge8iw9ZIbloKetn989wzn1M5nlNM6BOQlDTL0w/kjmlosrtlXCBVnoZ7Cn\nnTdj8YD9cnfvy/OcoTr0+TwTghyEC14TdPcCpyIuABo6xFP3VWEAgtdYdQKBgAJQ\nXBfbp5TzaOOelUcHVDsZ+9Y8+FDwdquwYemf2WjJaq2+mvjcNyQ/GZDHCHUKz+EW\nSi0oADXTW4HSlOFuTOTmcZWzq228UzM/u+7EKwR4Cnt92KTftdYaObo+gdLNyVET\nH1VRIOokhtdj3P5ufGZB+y/2U19EyPZS6QutTBjFAoGAOzSd5zMzzU7kAaeHOfOc\n7ZRQl0Ej13TW/S//gX6oXj0hjUP6igY83ebo+wQiKbugMMNsjllG0B00Dx0qV8Lf\n/0/DV7bwssf6adWVrhHMs1RpfQgtE3VEV5OByD+2lMIG+qaaUsNxiG9h5ELdOln2\n+aYIVhzFBzd9+mn4wiTi3N0=\n-----END PRIVATE KEY-----\n",
-  "client_email": "anglebelearn@coastal-theory-433014-i8.iam.gserviceaccount.com",
-  "client_id": "111053524195901446394",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anglebelearn%40coastal-theory-433014-i8.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
